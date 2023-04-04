@@ -1,2 +1,2 @@
 # malybeili
-mal;ybeili
+malybeili
